@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CharacterMenu
+comment1.params=numberOfPlayers\ map\ cheating
+comment1.target=CharacterMenu(int,\ int,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

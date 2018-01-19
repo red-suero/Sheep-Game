@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Island
+comment1.params=amount
+comment1.target=Island(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ addSheep()
+comment4.params=
+comment4.target=void\ removeSheep()
+comment5.params=
+comment5.target=boolean\ containsSheep()
+numComments=6

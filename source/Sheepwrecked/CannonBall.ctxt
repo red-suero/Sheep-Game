@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CannonBall
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ disappear()
+comment3.params=shooter
+comment3.target=void\ shooter(TeamBoat)
+comment4.params=
+comment4.target=TeamBoat\ getShooter()
+numComments=5

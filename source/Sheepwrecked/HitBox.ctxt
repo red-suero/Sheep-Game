@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HitBox
+comment1.params=
+comment1.target=HitBox()
+comment2.params=cls
+comment2.target=boolean\ isTouching(java.lang.Class)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Randomizer
+comment1.params=high\ low
+comment1.target=int\ randomize(double,\ double)
+comment2.params=chance
+comment2.target=boolean\ randomChance(int)
+comment3.params=low\ high
+comment3.target=int\ getRandomFromRange(int,\ int)
+numComments=4
